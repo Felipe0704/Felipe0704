@@ -44,11 +44,28 @@
 
 ###
 
-<p align="left">Como Desarrollador de Software especializado en Android e iOS, cuento con más de cinco años de experiencia dedicados a la creación de soluciones móviles nativas. Mi enfoque siempre ha estado en la innovación y la excelencia técnica, lo que me ha llevado a profundizar en las últimas tecnologías y prácticas recomendadas por Google, así como en patrones de arquitectura de software avanzados. Mis competencias incluyen:<br><br>Arquitectura de Software y Patrones de Diseño: Experiencia en MVVM, Feature Layer Architecture, y la integración de Jetpack Compose para optimizar y estructurar el código de manera eficiente.<br>Desarrollo y Mantenimiento de Aplicaciones: Profundo conocimiento en la inyección de dependencias utilizando DaggerHilt y Koin, lo que facilita la gestión de complejidades en aplicaciones grandes.<br>Base de Datos y Almacenamiento en la Nube: Capacidad para implementar Firebase y Room para el almacenamiento y manejo de datos de forma segura y eficiente.<br>Integración de APIs y Servicios en la Nube: Experiencia en el consumo de APIs REST y SOAP, esencial para la comunicación con servicios web.<br>Programación Asíncrona y Manejo de Estados: Uso de Kotlin Coroutines, Navigation Component, LiveData, y Flows (Stateflow - SharedStateflow) para crear aplicaciones reactivas y con una excelente gestión de estados.<br>Testing y Calidad de Código: Implementación de pruebas unitarias utilizando Junit junto con MockK/Mockito para asegurar la calidad y el funcionamiento del software.<br>He tenido el privilegio de liderar y desarrollar proyectos multidisciplinarios, desde aplicaciones de control de inventario para reconocidas empresas como Totto, Bayer, Kaeser, Nalsani, y CIAT, hasta sistemas de control de identidad en países como Colombia y Chile. Esta experiencia me ha permitido adquirir un conocimiento integral en el desarrollo de Android, incluyendo la implementación de SDKs para dispositivos RFID y sistemas de autenticación biométrica.<br><br>Me considero un apasionado por el aprendizaje continuo y la innovación tecnológica. Valoro profundamente el trabajo en equipo y el buen ambiente laboral, siempre con la mira puesta en el crecimiento personal y profesional.</p>
+<p align="left">Como Desarrollador de Software especializado en Android e iOS, cuento con más de cinco años de experiencia dedicados a la creación de soluciones móviles nativas. Mi enfoque siempre ha estado en la innovación y la excelencia técnica, lo que me ha llevado a profundizar en las últimas tecnologías y prácticas recomendadas por Google, así como en patrones de arquitectura de software avanzados. Mis competencias incluyen:<br><br><strong>Arquitectura de Software y Patrones de Diseño:</strong> Experiencia en MVVM, Feature Layer Architecture, y la integración de Jetpack Compose para optimizar y estructurar el código de manera eficiente.<br><strong>Desarrollo y Mantenimiento de Aplicaciones:</strong> Profundo conocimiento en la inyección de dependencias utilizando DaggerHilt y Koin, lo que facilita la gestión de complejidades en aplicaciones grandes.<br><strong>Base de Datos y Almacenamiento en la Nube:</strong> Capacidad para implementar Firebase y Room para el almacenamiento y manejo de datos de forma segura y eficiente.<br><strong>Integración de APIs y Servicios en la Nube:</strong> Experiencia en el consumo de APIs REST y SOAP, esencial para la comunicación con servicios web.<br><strong>Programación Asíncrona y Manejo de Estados:</strong> Uso de Kotlin Coroutines, Navigation Component, LiveData, y Flows (Stateflow - SharedStateflow) para crear aplicaciones reactivas y con una excelente gestión de estados.<br><strong>Testing y Calidad de Código:</strong> Implementación de pruebas unitarias utilizando Junit junto con MockK/Mockito para asegurar la calidad y el funcionamiento del software.<br>He tenido el privilegio de liderar y desarrollar proyectos multidisciplinarios, desde aplicaciones de control de inventario para reconocidas empresas como Totto, Bayer, Kaeser, Nalsani, y CIAT, hasta sistemas de control de identidad en países como Colombia y Chile. Esta experiencia me ha permitido adquirir un conocimiento integral en el desarrollo de Android, incluyendo la implementación de SDKs para dispositivos RFID y sistemas de autenticación biométrica.<br><br>Me considero un apasionado por el aprendizaje continuo y la innovación tecnológica. Valoro profundamente el trabajo en equipo y el buen ambiente laboral, siempre con la mira puesta en el crecimiento personal y profesional.</p>
 
 ###
+<h3 align="left">Skills 🛠 <br><br> </h3>
+<ul>
+  <li><strong>MVVM</strong></li>
+  <li><strong>Feature Layer Architecture</strong></li>
+  <li><strong>JetpackCompose</strong></li>
+  <li><strong>Inyección de dependencias (DaggerHilt - Koin)</strong></li>
+  <li><strong>Firebase</strong></li>
+  <li><strong>Consumo de API (Rest/SOAP)</strong></li>
+  <li><strong>Kotlin Coroutines</strong></li>
+  <li><strong>Navigation Component</strong></li>
+  <li><strong>LifeCycles</strong></li>
+  <li><strong>LiveData</strong></li>
+  <li><strong>Flows (Stateflow - SharedStateflow)</strong></li>
+  <li><strong>DataBinding</strong></li>
+  <li><strong>Room</strong></li>
+  <li><strong>Unit Testing (Junit + MockK/Mockito)</strong></li>
+</ul>
 
-<p align="left">Skills 🛠 <br><br> - MVVM<br> - Feature Layer Arquitecture<br> - JetpackCompose <br> - Inyeccion de dependencias (DaggerHilt - Koin)<br> - Firebase<br> - Consumo de API (Rest/SOAP)<br> - Kotlin Coroutines<br> - Navigation Component<br> - LifeCycles<br> - LiveData<br> - Flows (Stateflow - SharedStateflow)<br> - DataBiding<br> - Room<br> - Unit Testing (Junit + MockK/Mockito)</p>
+
 
 ###
 
